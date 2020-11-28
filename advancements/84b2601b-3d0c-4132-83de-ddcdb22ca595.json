@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-11-28 00:29:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-28 00:25:08 -0500"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-11-28 00:31:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-11-27 23:54:03 -0500"
@@ -266,6 +278,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-28 00:25:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-11-28 00:29:45 -0500"
     },
     "done": true
   },
@@ -543,6 +561,12 @@
       "minecraft:skeleton": "2020-11-27 23:58:03 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-11-28 00:31:08 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {

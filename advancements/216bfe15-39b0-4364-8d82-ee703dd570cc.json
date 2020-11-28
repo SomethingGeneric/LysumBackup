@@ -242,6 +242,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-11-28 00:31:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-27 23:44:26 -0500"

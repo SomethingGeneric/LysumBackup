@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-27 23:02:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -32,6 +44,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-27 23:08:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-11-28 00:44:33 -0500"
     },
     "done": true
   },
@@ -56,6 +74,24 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-27 23:02:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -84,8 +120,11 @@
       "minecraft:forest": "2020-11-27 22:52:36 -0500",
       "minecraft:mountains": "2020-11-27 22:51:20 -0500",
       "minecraft:jungle": "2020-11-27 22:51:05 -0500",
+      "minecraft:birch_forest": "2020-11-28 00:47:05 -0500",
+      "minecraft:savanna_plateau": "2020-11-28 00:42:58 -0500",
       "minecraft:dark_forest": "2020-11-27 22:57:14 -0500",
       "minecraft:river": "2020-11-27 22:52:40 -0500",
+      "minecraft:birch_forest_hills": "2020-11-28 00:44:51 -0500",
       "minecraft:wooded_mountains": "2020-11-27 22:53:05 -0500",
       "minecraft:wooded_hills": "2020-11-27 22:51:24 -0500",
       "minecraft:swamp": "2020-11-27 23:07:40 -0500",
@@ -130,6 +169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-11-27 23:35:57 -0500"
@@ -166,9 +211,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-11-28 00:26:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -187,6 +244,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-11-27 23:06:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -220,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-11-28 00:44:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-11-27 23:06:06 -0500"
@@ -235,6 +304,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-11-27 23:06:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -256,6 +331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-27 23:08:54 -0500"
@@ -265,6 +346,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-27 23:02:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -304,6 +391,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2020-11-28 00:44:33 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-11-27 23:35:57 -0500"
@@ -319,6 +412,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2020-11-27 23:48:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },
@@ -358,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-27 23:02:50 -0500"
@@ -391,6 +496,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-28 00:26:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-28 00:46:30 -0500"
     },
     "done": true
   },

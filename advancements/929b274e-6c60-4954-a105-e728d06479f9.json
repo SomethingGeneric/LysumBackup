@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-11-30 00:14:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_blackstone_bricks": "2020-11-27 23:06:22 -0500"
@@ -1053,9 +1059,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-11-30 00:00:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-27 23:03:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2020-11-30 00:01:18 -0500"
     },
     "done": true
   },
@@ -1198,6 +1216,7 @@
       "minecraft:mountains": "2020-11-27 22:51:18 -0500",
       "minecraft:forest": "2020-11-28 00:19:20 -0500",
       "minecraft:desert_hills": "2020-11-28 20:52:25 -0500",
+      "minecraft:snowy_tundra": "2020-11-30 00:33:03 -0500",
       "minecraft:desert": "2020-11-27 22:49:38 -0500",
       "minecraft:jungle": "2020-11-27 22:49:17 -0500",
       "minecraft:savanna_plateau": "2020-11-28 00:45:15 -0500",
@@ -1209,6 +1228,12 @@
       "minecraft:plains": "2020-11-27 22:51:02 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-11-30 00:00:11 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1357,6 +1382,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-11-27 23:34:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2020-11-30 00:01:18 -0500"
     },
     "done": true
   },

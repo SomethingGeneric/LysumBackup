@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-11-30 01:01:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-11-28 21:33:26 -0500"
@@ -554,8 +560,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-11-28 01:04:02 -0500",
+      "minecraft:spider": "2020-11-30 00:51:50 -0500",
       "minecraft:creeper": "2020-11-28 01:54:30 -0500",
       "minecraft:stray": "2020-11-28 22:35:29 -0500",
+      "minecraft:enderman": "2020-11-30 00:20:05 -0500",
       "minecraft:zombie": "2020-11-28 01:54:44 -0500"
     },
     "done": false
@@ -1065,6 +1073,7 @@
       "minecraft:mountains": "2020-11-27 23:11:30 -0500",
       "minecraft:forest": "2020-11-28 01:00:39 -0500",
       "minecraft:desert_hills": "2020-11-28 02:25:24 -0500",
+      "minecraft:snowy_tundra": "2020-11-30 00:31:23 -0500",
       "minecraft:desert": "2020-11-28 02:25:19 -0500",
       "minecraft:jungle": "2020-11-27 23:11:05 -0500",
       "minecraft:birch_forest": "2020-11-28 01:01:17 -0500",

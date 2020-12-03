@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-12-02 20:52:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2020-11-28 23:07:12 -0500"
@@ -547,9 +553,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-12-02 21:50:18 -0500",
       "minecraft:skeleton": "2020-11-27 23:58:03 -0500",
       "minecraft:spider": "2020-11-28 18:49:57 -0500",
       "minecraft:creeper": "2020-11-30 01:36:10 -0500",
+      "minecraft:zombified_piglin": "2020-12-02 20:23:33 -0500",
       "minecraft:witch": "2020-11-29 19:26:24 -0500",
       "minecraft:stray": "2020-11-28 19:30:06 -0500",
       "minecraft:enderman": "2020-11-29 22:49:12 -0500",
@@ -1771,6 +1779,7 @@
       "cooked_mutton": "2020-11-28 02:22:11 -0500",
       "cooked_beef": "2020-11-28 00:58:51 -0500",
       "apple": "2020-11-28 04:06:07 -0500",
+      "potato": "2020-12-02 02:20:03 -0500",
       "bread": "2020-11-28 02:20:09 -0500",
       "cookie": "2020-11-28 01:46:32 -0500",
       "melon_slice": "2020-11-30 20:24:52 -0500",
